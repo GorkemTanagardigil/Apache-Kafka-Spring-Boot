@@ -30,4 +30,4 @@ Create Spring Boot project for Kafka implementation.
 
 ![spring_boot_create_project_2](https://user-images.githubusercontent.com/42736940/153388993-3d8f5a9e-de6c-4541-8fbf-844be6ac455d.png)
 
-**Let's start implementing Apache Kafka for Spring Boot applications!
+**Let's start implementing Apache Kafka for Spring Boot applications!**
